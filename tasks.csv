@@ -1,5 +1,5 @@
 id,task,skill,schedule,ignore,params
-1,Очистка почты,apply_inbox_rules,,,
+1,Очистка почты,apply_inbox_rules,,,daily_report_interval: 4:30-5:30
 2,Скачивание заданий,gather_tasks,,,
 3,Прислать напоминание,remind_me,once,,"at: 2026-06-09 12:30
 tz: Europe/Moscow
