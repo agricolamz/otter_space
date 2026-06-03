@@ -1,0 +1,9 @@
+id,task,skill,schedule,ignore,params
+1,Очистка почты,apply_inbox_rules,,,
+2,Скачивание заданий,gather_tasks,,,
+3,Прислать напоминание,remind_me,once,,"at: 2026-06-09 12:30
+tz: Europe/Moscow
+message: Напишие Лене Рыбиной.
+subject: автоматическое напоминание
+log_message: Решаю, выслать ли автоматическое напоминание
+"
