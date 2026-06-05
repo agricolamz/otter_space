@@ -19,3 +19,5 @@ appender_tee(file = getOption("otteRagent_path_to_logs"),
   log_appender()
 
 check_tasklist()
+
+# test
