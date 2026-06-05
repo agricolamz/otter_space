@@ -13,11 +13,9 @@ if(length(args) == 0) {
 as.loglevel(loglevel) |>
   log_threshold()
 
-appender_tee(file = getOption("otteRagent_path_to_logs"),
+appender_tee(file = paste0(getOption("otteRagent_directory"), "logs/logs.txt"),
              max_lines = 1000L,
              max_files = 10L) |>
   log_appender()
 
 check_tasklist()
-
-# Finally?
