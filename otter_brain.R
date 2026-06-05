@@ -19,5 +19,3 @@ appender_tee(file = paste0(getOption("otteRagent_directory"), "logs/logs.txt"),
   log_appender()
 
 check_tasklist()
-
-# test of the update command
