@@ -4,9 +4,7 @@ id,task,skill,schedule,ignore,params
 3,Прислать напоминание,remind_me,once,,"at: 2026-06-09 12:30
 tz: Europe/Moscow
 ollama_message: Напиши Лене Рыбиной.
-subject: автоматическое напоминание
-log_ollama_message: Решаю, выслать ли автоматическое напоминание
-"
+subject: автоматическое напоминание"
 4,Саммаризация,ask_ollama,once,,"model: QurouNnet/summarizer:400m
 remove_from_attachment: c(1:5,48:59)
 ollama_attachment: Арсентьева У.И..pdf
