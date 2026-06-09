@@ -14,7 +14,7 @@ as.loglevel(loglevel) |>
   log_threshold()
 
 appender_tee(file = paste0(getOption("otteRagent_directory"), "logs/logs.txt"),
-             max_lines = 1000L,
+             max_lines = 5000L,
              max_files = 10L) |>
   log_appender()
 
