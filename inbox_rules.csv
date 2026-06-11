@@ -1,6 +1,6 @@
 id,from,to,subject,body,label,add_labels,remove_labels
 1,<info-dit@hse.ru>,,,,,TRASH,UNREAD
-2,<linguist@listserv.linguistlist.org>,LINGUIST@listserv.linguistlist.org,"\d{2}\.\d{4}, ((Jobs)|(Summer Schools)|(Calls)|(Confs)|(Reviews)|(AVAILABLE FOR REVIEW)|(Support)|(FYI)|(Media)|(Qs))",,,TRASH,UNREAD
+2,<linguist@listserv.linguistlist.org>,LINGUIST@listserv.linguistlist.org,"\d{2}\.\d{4}, ((Jobs)|(Summer Schools)|(Calls)|(Confs)|(All)|(Reviews)|(AVAILABLE FOR REVIEW)|(Support)|(FYI)|(Media)|(Qs))",,,TRASH,UNREAD
 3,,mosling@googlegroups.com,(R[Ee]: )?\[mosling\] (R[Ee]: )?(Fwd: )?((ARTICLE QUERY)|(BOOK QUERY)),,,TRASH,UNREAD
 4,<social@hse.ru>,,,,,TRASH,UNREAD
 5,<nauka.fgn@hse.ru>,,Обзор научных мероприятий,,,TRASH,UNREAD
