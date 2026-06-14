@@ -1,3 +1,15 @@
 id,task,skill,schedule,ignore,params
 1,Получение задание из gmail,gather_tasks,,,
 2,Очистка почты,apply_inbox_rules,,,daily_report_interval: 4:30-5:30
+3,Проверка новостей Международная лаборатория языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/
+website_element: ""h2 > a"""
+4,Проверка новостей Школы лингивистики,monitor_website_element,,,"url: https://ling.hse.ru/
+website_element: ""h2 > a"""
+5,Проверка новостей Лингвистической лаборатории по корпусным технологиям,monitor_website_element,,,"url: https://cfi.hse.ru/corpora/
+website_element: ""h2 > a"""
+6,Проверка новостей Научно-учебной лаборатории по формальным моделям в лингвистике,monitor_website_element,,,"url: https://hum.hse.ru/fml/
+website_element: ""h2 > a"""
+7,Проверка новостей Научно-учебной лаборатории социогуманитарных исследований Севера и Арктики ,monitor_website_element,,,"url: https://hum.hse.ru/arctic/
+website_element: ""div.plate_news__title.h4 > a"""
+8,Проверка новостей Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/
+website_element: ""h2 > a"""
