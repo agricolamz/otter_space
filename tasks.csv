@@ -9,7 +9,9 @@ website_element: ""h2 > a"""
 website_element: ""h2 > a"""
 6,Проверка новостей Научно-учебной лаборатории по формальным моделям в лингвистике,monitor_website_element,,,"url: https://hum.hse.ru/fml/
 website_element: ""h2 > a"""
-7,Проверка новостей Научно-учебной лаборатории социогуманитарных исследований Севера и Арктики ,monitor_website_element,,,"url: https://hum.hse.ru/arctic/
+7,Проверка новостей Научно-учебной лаборатории социогуманитарных исследований Севера и Арктики,monitor_website_element,,,"url: https://hum.hse.ru/arctic/
 website_element: ""div.plate_news__title.h4 > a"""
 8,Проверка новостей Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/
+website_element: ""h2 > a"""
+9,Проверка новостей Лаборатория языковой конвергенции (СПб),monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/news/
 website_element: ""h2 > a"""
