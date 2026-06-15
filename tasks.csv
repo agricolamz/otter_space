@@ -1,17 +1,48 @@
 id,task,skill,schedule,ignore,params
 1,Получение задание из gmail,gather_tasks,,,
 2,Очистка почты,apply_inbox_rules,,,daily_report_interval: 4:30-5:30
-3,Проверка новостей Международная лаборатория языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/
-website_element: ""h2 > a"""
-4,Проверка новостей Школы лингивистики,monitor_website_element,,,"url: https://ling.hse.ru/
-website_element: ""h2 > a"""
-5,Проверка новостей Лингвистической лаборатории по корпусным технологиям,monitor_website_element,,,"url: https://cfi.hse.ru/corpora/
-website_element: ""h2 > a"""
-6,Проверка новостей Научно-учебной лаборатории по формальным моделям в лингвистике,monitor_website_element,,,"url: https://hum.hse.ru/fml/
-website_element: ""h2 > a"""
-7,Проверка новостей Научно-учебной лаборатории социогуманитарных исследований Севера и Арктики,monitor_website_element,,,"url: https://hum.hse.ru/arctic/
-website_element: ""div.plate_news__title.h4 > a"""
-8,Проверка новостей Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/
-website_element: ""h2 > a"""
-9,Проверка новостей Лаборатория языковой конвергенции (СПб),monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/news/
-website_element: ""h2 > a"""
+3,Мониторинг новостей Международная лаборатория языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/
+website_element: ""h2 > a""
+gmail_subject: ""Новая новость на сайте конлабы"""
+4,Мониторинг новостей Школы лингивистики,monitor_website_element,,,"url: https://ling.hse.ru/
+website_element: ""h2 > a""
+gmail_subject: ""Новая новость на сайте ШЛ"""
+5,Мониторинг новостей Лингвистической лаборатории по корпусным технологиям,monitor_website_element,,,"url: https://cfi.hse.ru/corpora/
+website_element: ""h2 > a""
+gmail_subject: ""Новая новость на сайте лаборатории по корпуснм технологиям"""
+6,Мониторинг новостей Научно-учебной лаборатории по формальным моделям в лингвистике,monitor_website_element,,,"url: https://hum.hse.ru/fml/
+website_element: ""h2 > a""
+gmail_subject: ""Новая новость на сайте формлабы"""
+7,Мониторинг новостей Научно-учебной лаборатории социогуманитарных исследований Севера и Арктики,monitor_website_element,,,"url: https://hum.hse.ru/arctic/
+website_element: ""div.plate_news__title.h4 > a""
+gmail_subject: ""Новая новость на сайте арктической лаборатории"""
+8,Мониторинг новостей Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/
+website_element: ""h2 > a""
+gmail_subject: ""Новая новость на сайте лаборатории учебных корпусов"""
+9,Мониторинг новостей Лаборатория языковой конвергенции (СПб),monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/news/
+website_element: ""h2 > a""
+gmail_subject: ""Новая новость на сайте ЛЯК СПб"""
+10,Мониторинг публикаций Международная лаборатория языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/publications/
+website_element: ""div.pubs-item__title a""
+chromote: TRUE
+gmail_subject: ""Новая публикация на сайте конлабы"""
+11,Мониторинг публикаций Лингвистической лаборатории по корпусным технологиям,monitor_website_element,,,"url: https://cfi.hse.ru/corpora/publications/
+website_element: ""div.pubs-item__title a""
+chromote: TRUE
+gmail_subject: ""Новая публикация на сайте лаборатории по корпусным технологиям"""
+12,Мониторинг публикаций Научно-учебной лаборатории по формальным моделям в лингвистике,monitor_website_element,,,"url: https://cfi.hse.ru/fml/publications/
+website_element: ""div.pubs-item__title a""
+chromote: TRUE
+gmail_subject: ""Новая публикация на сайте формлабы"""
+13,Мониторинг публикаций Научно-учебной лаборатории социогуманитарных исследований Севера и Арктики,monitor_website_element,,,"url: https://hum.hse.ru/arctic/publications
+website_element: ""div.pubs-item__title a""
+chromote: TRUE
+gmail_subject: ""Новая публикация на сайте арктической лобаротории"""
+14,Мониторинг публикаций Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/publications
+website_element: ""div.pubs-item__title a""
+chromote: TRUE
+gmail_subject: ""Новая публикация на сайте лаборатории учебных корпусов"""
+15,Мониторинг публикаций Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/publications
+website_element: ""div.pubs-item__title a""
+chromote: TRUE
+gmail_subject: ""Новая публикация на сайте ЛЯК СПб"""
