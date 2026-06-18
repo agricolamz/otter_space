@@ -46,3 +46,7 @@ gmail_subject: ""Новая публикация на сайте лаборат�
 website_element: ""div.pubs-item__title a""
 chromote: TRUE
 gmail_subject: ""Новая публикация на сайте ЛЯК СПб"""
+16,"Мониторинг публикаций Международная лаборатория логики, лингвистики и формальной философии",monitor_website_element,,,"url: https://llfp.hse.ru/publications
+website_element: ""div.pubs-item__title a""
+chromote: TRUE
+gmail_subject: ""Новая публикация на сайте лаборатории логики и лингвистики"""
