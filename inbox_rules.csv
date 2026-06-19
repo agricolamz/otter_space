@@ -4,10 +4,11 @@ id,from,to,subject,body,label,add_labels,remove_labels
 3,,mosling@googlegroups.com,(R[Ee]: )?\[mosling\] (R[Ee]: )?(Fwd: )?((ARTICLE QUERY)|(BOOK QUERY)),,,TRASH,UNREAD
 4,<social@hse.ru>,,,,,TRASH,UNREAD
 5,<nauka.fgn@hse.ru>,,Обзор научных мероприятий,,,TRASH,UNREAD
-6,<community@hse.ru>,,,,,TRASH,UNREAD
+6,<community@hse.ru>,,MASSMAIL,,,TRASH,UNREAD
 7,<id@hse.ru>,,,,,TRASH,UNREAD
 8,<ca@hse.ru>,,,,,TRASH,UNREAD
 9,news@urait.ru,,,,,TRASH,UNREAD
 10,newsletter-dszn@mos.ru,,,,,TRASH,UNREAD
 11,<olymp@hse.ru>,,,,,TRASH,UNREAD
 12,,,Teach4HSE,,,TRASH,UNREAD
+13,,fasusers@hse.ru,,,,TRASH,UNREAD
