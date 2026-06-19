@@ -1,7 +1,7 @@
 id,task,skill,schedule,ignore,params
 1,Получение задание из gmail,gather_tasks,,,
 2,Очистка почты,apply_inbox_rules,,,daily_report_interval: 4:30-5:30
-3,Мониторинг новостей Международная лаборатория языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/
+3,Мониторинг новостей Международной лаборатории языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/
 website_element: ""h2 > a""
 gmail_subject: ""Новая новость на сайте конлабы"""
 4,Мониторинг новостей Школы лингивистики,monitor_website_element,,,"url: https://ling.hse.ru/
@@ -16,10 +16,10 @@ gmail_subject: ""Новая новость на сайте формлабы"""
 7,Мониторинг новостей Научно-учебной лаборатории социогуманитарных исследований Севера и Арктики,monitor_website_element,,,"url: https://hum.hse.ru/arctic/
 website_element: ""div.plate_news__title.h4 > a""
 gmail_subject: ""Новая новость на сайте арктической лаборатории"""
-8,Мониторинг новостей Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/
+8,Мониторинг новостей Научно-учебной лаборатории учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/
 website_element: ""h2 > a""
 gmail_subject: ""Новая новость на сайте лаборатории учебных корпусов"""
-9,Мониторинг новостей Лаборатория языковой конвергенции (СПб),monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/news/
+9,Мониторинг новостей Лаборатории языковой конвергенции (СПб),monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/news/
 website_element: ""h2 > a""
 gmail_subject: ""Новая новость на сайте ЛЯК СПб"""
 10,Мониторинг публикаций Международная лаборатория языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/publications/
@@ -38,15 +38,15 @@ gmail_subject: ""Новая публикация на сайте формлаб�
 website_element: ""div.pubs-item__title a""
 chromote: TRUE
 gmail_subject: ""Новая публикация на сайте арктической лобаротории"""
-14,Мониторинг публикаций Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/publications
+14,Мониторинг публикаций Научно-учебной лаборатории учебных корпусов,monitor_website_element,,,"url: https://hum.hse.ru/lcl/publications
 website_element: ""div.pubs-item__title a""
 chromote: TRUE
 gmail_subject: ""Новая публикация на сайте лаборатории учебных корпусов"""
-15,Мониторинг публикаций Научно-учебная лаборатория учебных корпусов,monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/publications
+15,Мониторинг публикаций Научно-учебной лаборатории учебных корпусов,monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/publications
 website_element: ""div.pubs-item__title a""
 chromote: TRUE
 gmail_subject: ""Новая публикация на сайте ЛЯК СПб"""
-16,"Мониторинг публикаций Международная лаборатория логики, лингвистики и формальной философии",monitor_website_element,,,"url: https://llfp.hse.ru/publications
+16,"Мониторинг публикаций Международной лаборатории логики, лингвистики и формальной философии",monitor_website_element,,,"url: https://llfp.hse.ru/publications
 website_element: ""div.pubs-item__title a""
 chromote: TRUE
 gmail_subject: ""Новая публикация на сайте лаборатории логики и лингвистики"""
