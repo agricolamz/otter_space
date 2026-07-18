@@ -1,16 +1,16 @@
 id,from,to,subject,body,label,add_labels,remove_labels
-1,<info-dit@hse.ru>,,,,,TRASH,UNREAD
+1,info-dit@hse.ru,,,,,TRASH,UNREAD
 2,linguist@listserv.linguistlist.org,LINGUIST@listserv.linguistlist.org,"\d{2}\.\d{4}, ((Jobs)|(Summer Schools)|(Calls)|(Confs)|(Book)|(All)|(Reviews)|(AVAILABLE FOR REVIEW)|(Support)|(FYI)|(Media)|(Qs)|(Diss))",,,TRASH,UNREAD
-3,,<mosling@googlegroups.com>,(R[Ee]: )?\[mosling\] (R[Ee]: )?(Fwd: )?((ARTICLE QUERY)|(BOOK QUERY)|(BOOK)),,,TRASH,UNREAD
-4,<social@hse.ru>,,,,,TRASH,UNREAD
-5,<nauka.fgn@hse.ru>,,Обзор научных мероприятий,,,TRASH,UNREAD
-6,<community@hse.ru>,,MASSMAIL,,,TRASH,UNREAD
-7,<id@hse.ru>,,,,,TRASH,UNREAD
-8,<ca@hse.ru>,,,,,TRASH,UNREAD
-9,<news@urait.ru>,,,,,TRASH,UNREAD
-10,<newsletter-dszn@mos.ru>,,,,,TRASH,UNREAD
-11,<olymp@hse.ru>,,,,,TRASH,UNREAD
+3,,mosling@googlegroups.com,(R[Ee]: )?\[mosling\] (R[Ee]: )?(Fwd: )?((ARTICLE QUERY)|(BOOK QUERY)|(BOOK)),,,TRASH,UNREAD
+4,social@hse.ru,,,,,TRASH,UNREAD
+5,nauka.fgn@hse.ru,,Обзор научных мероприятий,,,TRASH,UNREAD
+6,community@hse.ru,,MASSMAIL,,,TRASH,UNREAD
+7,id@hse.ru,,,,,TRASH,UNREAD
+8,ca@hse.ru,,,,,TRASH,UNREAD
+9,news@urait.ru,,,,,TRASH,UNREAD
+10,newsletter-dszn@mos.ru,,,,,TRASH,UNREAD
+11,olymp@hse.ru,,,,,TRASH,UNREAD
 12,,,Teach4HSE,,,TRASH,UNREAD
-13,,<fasusers@hse.ru>,,,,TRASH,UNREAD
-14,<k2service@hse.ru>,,Заявка на создание адреса электронной почты,,,TRASH,UNREAD
-15,<findir@hse.ru>,,Дайджест финансового блока,,,TRASH,UNREAD
+13,,fasusers@hse.ru,,,,TRASH,UNREAD
+14,k2service@hse.ru,,Заявка на создание адреса электронной почты,,,TRASH,UNREAD
+15,findir@hse.ru,,Дайджест финансового блока,,,TRASH,UNREAD
