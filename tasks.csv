@@ -22,7 +22,7 @@ gmail_subject: ""Новая новость на сайте лаборатори�
 9,Мониторинг новостей Лаборатории языковой конвергенции (СПб),monitor_website_element,,,"url: https://spb.hse.ru/humart/lcl/news/
 website_element: ""h2 > a""
 gmail_subject: ""Новая новость на сайте ЛЯК СПб"""
-10,Мониторинг публикаций Международная лаборатория языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/publications/
+10,Мониторинг публикаций Международной лаборатории языковой конвергенции,monitor_website_element,,,"url: https://ilcl.hse.ru/publications/
 website_element: ""div.pubs-item__title a""
 chromote: TRUE
 gmail_subject: ""Новая публикация на сайте конлабы"""
